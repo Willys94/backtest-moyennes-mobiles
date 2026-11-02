@@ -18,6 +18,7 @@ The comparison starts on Oct 18, 2005, the first day the strategy can take a pos
 
 - Invested in SPY when the 50-day moving average is above the 200-day moving average; in cash otherwise (0% return). No short selling.
 - The position is decided with the previous day's close, to avoid look-ahead bias.
+
 ## Results
 
 Period: Oct 18, 2005 to Dec 31, 2024 (4,833 trading days).
